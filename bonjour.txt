@@ -1,0 +1,2 @@
+Bonjour, je suis étudiant à l'ESGI.
+J'apprends à utiliser Git et GitHub.
