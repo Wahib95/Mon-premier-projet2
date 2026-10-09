@@ -1,2 +1,3 @@
 Bonjour, je suis étudiant à l'ESGI.
 J'apprends à utiliser Git et GitHub.
+Je decouvre comment modifier un fichier sur Git Hub.
